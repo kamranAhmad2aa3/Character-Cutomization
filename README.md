@@ -36,3 +36,18 @@ Implement login system and user profile management features.
 
 Design intuitive and visually appealing user interfaces for character customization and profile management.
 Optimize UI for responsiveness and compatibility with WebGL platforms.
+
+
+
+https://github.com/kamranAhmad2aa3/Character-Cutomization/assets/68790390/694ce144-c176-4dc3-9f62-a35b2a375bd2
+
+
+https://github.com/kamranAhmad2aa3/Character-Cutomization/assets/68790390/1ea469cd-0f12-4b2c-adcc-4ba83c837f69
+
+
+
+
+![Screenshot 2024-03-27 230439](https://github.com/kamranAhmad2aa3/Character-Cutomization/assets/68790390/ec306d46-5ba5-4285-80b3-90ee9a69eed8)
+
+![Screenshot 2024-03-27 230624](https://github.com/kamranAhmad2aa3/Character-Cutomization/assets/68790390/97eba232-8081-4599-9460-f3a2c1cadbe9)
+
